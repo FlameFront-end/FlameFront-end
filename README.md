@@ -11,4 +11,11 @@ Languages
 
 Tools
 
+![WebStorm](https://img.shields.io/badge/-WebStorm-13069c?style=for-the-badge&logo=WEBSTORM)
+![VSCode](https://img.shields.io/badge/-VSCode-13069c?style=for-the-badge&logo=VisualStudioCode)
+![Figma](https://img.shields.io/badge/-Figma-13069c?style=for-the-badge&logo=Figma)
+![Webpack](https://img.shields.io/badge/-Webpack-13069c?style=for-the-badge&logo=Webpack)
+![Git](https://img.shields.io/badge/-Git-13069c?style=for-the-badge&logo=Git)
+
+
 Follow Me
