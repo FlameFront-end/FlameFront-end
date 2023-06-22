@@ -2,6 +2,9 @@
 
 ## I Am Junior Front-end Developer
 
+[![CodeWars](https://www.codewars.com/users/rsschool_c203d68ae8ec3412/badges/large)](https://www.codewars.com/users/rsschool_c203d68ae8ec3412)
+
+
 Hard Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9807f2?style=for-the-badge&logo=JavaScript)
