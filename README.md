@@ -2,10 +2,13 @@
 
 ## I Am Junior Front-end Developer
 
+Codewars
+
 [![CodeWars](https://www.codewars.com/users/rsschool_c203d68ae8ec3412/badges/large)](https://www.codewars.com/users/rsschool_c203d68ae8ec3412)
 
-
 Hard Skills
+
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9807f2?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-9807f2?style=for-the-badge&logo=TypeScript)
@@ -21,3 +24,6 @@ Tools
 ![Webpack](https://img.shields.io/badge/-Webpack-13069c?style=for-the-badge&logo=Webpack)
 ![GULP](https://img.shields.io/badge/-GULP-13069c?style=for-the-badge&logo=GULP)
 ![Git](https://img.shields.io/badge/-Git-13069c?style=for-the-badge&logo=Git)
+
+![github-snake.svg](assets%2Fgithub-snake.svg)
+
