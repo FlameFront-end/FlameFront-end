@@ -1,7 +1,5 @@
 ![Header](https://github.com/FlameFront-end/FlameFront-end/blob/main/assets/Header.gif)
 
-## I Am Front-end Developer
-
 Codewars
 
 [![CodeWars](https://www.codewars.com/users/rsschool_c203d68ae8ec3412/badges/large)](https://www.codewars.com/users/rsschool_c203d68ae8ec3412)
