@@ -11,6 +11,8 @@
   </p>
 </div>
 
+---
+
 <div align="center">
   4.5+ years building products in AI SaaS, ERP, and Telegram Mini Apps
   <br />
@@ -19,7 +21,7 @@
   Cross-platform with React Native and Next.js
 </div>
 
-<br />
+---
 
 Senior Frontend Developer with 4.5+ years building products in AI SaaS, ERP, and Telegram Mini Apps.
 
