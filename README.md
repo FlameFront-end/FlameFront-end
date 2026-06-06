@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Artem Kaliganov</h1>
+  <h2>Artem Kaliganov</h2>
   <p><strong>Senior Frontend Developer</strong></p>
   <p>AI SaaS · Real-time Systems · React Native · Open Source</p>
   <p>
