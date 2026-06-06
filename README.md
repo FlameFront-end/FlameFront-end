@@ -29,9 +29,9 @@ Main focus: React, TypeScript, SPA architecture, real-time on SSE and WebSocket,
 
 ### Featured Project
 
-<table width="100%">
+<table width="100%" style="width: 100%;">
   <tr>
-    <td valign="top">
+    <td width="100%" valign="top">
       <h3><a href="https://github.com/FlameFront-end/sse-runtime">sse-runtime</a></h3>
       TypeScript runtime for Server-Sent Events. I built it to cover what the native <code>EventSource</code> API is missing in real products: auth headers, typed events, React Native support, reconnect logic, and single-tab coordination.<br /><br />
       <blockquote>
@@ -58,33 +58,38 @@ Main focus: React, TypeScript, SPA architecture, real-time on SSE and WebSocket,
 
 ### Experience
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <strong>AI SaaS Platform</strong><br />
-      Senior Frontend Developer<br />
-      <div style="border-top: 1px solid #3d444d; margin: 8px -14px 10px;"></div>
-      Built the frontend from scratch for AI-agent workflows, multimodal chats, teams, templates, and subscriptions.<br /><br />
-      Shipped MVP in <strong>1.5 months</strong>, then took the product to production for enterprise and government clients.
-    </td>
-    <td width="33%" valign="top">
-      <strong>wame.tools / Kokoc Group</strong><br />
-      Frontend / Fullstack Developer<br />
-      <div style="border-top: 1px solid #3d444d; margin: 8px -14px 10px;"></div>
-      Worked on a SaaS Telegram Mini Apps platform used across multiple verticals.<br /><br />
-      Delivered <strong>10+ projects in 1.5 years</strong>, including HR and fintech products, and led frontend work on a leasing product.
-    </td>
-    <td width="33%" valign="top">
-      <strong>BSO Real Estate Management</strong><br />
-      Frontend Developer<br />
-      <div style="border-top: 1px solid #3d444d; margin: 8px -14px 10px;"></div>
-      Built complex ERP interfaces: schema-driven forms, OCR-assisted document flows, server-side tables, and real-time updates.<br /><br />
-      Worked with large data sets, heavy business logic, and performance under load.
-    </td>
-  </tr>
-</table>
+<div style="width: 100%; border: 1px solid #3d444d; margin: 0 0 14px 0; box-sizing: border-box;">
+  <div style="padding: 12px 14px;">
+    <strong>AI SaaS Platform</strong><br />
+    Senior Frontend Developer
+  </div>
+  <div style="border-top: 1px solid #3d444d; padding: 12px 14px;">
+    Built the frontend from scratch for AI-agent workflows, multimodal chats, teams, templates, and subscriptions.<br />
+    Shipped MVP in <strong>1.5 months</strong>, then took the product to production for enterprise and government clients.
+  </div>
+</div>
 
-<br />
+<div style="width: 100%; border: 1px solid #3d444d; margin: 0 0 14px 0; box-sizing: border-box;">
+  <div style="padding: 12px 14px;">
+    <strong>wame.tools / Kokoc Group</strong><br />
+    Frontend / Fullstack Developer
+  </div>
+  <div style="border-top: 1px solid #3d444d; padding: 12px 14px;">
+    Worked on a SaaS Telegram Mini Apps platform used across multiple verticals.<br />
+    Delivered <strong>10+ projects in 1.5 years</strong>, including HR and fintech products, and led frontend work on a leasing product.
+  </div>
+</div>
+
+<div style="width: 100%; border: 1px solid #3d444d; box-sizing: border-box;">
+  <div style="padding: 12px 14px;">
+    <strong>BSO Real Estate Management</strong><br />
+    Frontend Developer
+  </div>
+  <div style="border-top: 1px solid #3d444d; padding: 12px 14px;">
+    Built complex ERP interfaces: schema-driven forms, OCR-assisted document flows, server-side tables, and real-time updates.<br />
+    Worked with large data sets, heavy business logic, and performance under load.
+  </div>
+</div>
 
 ### Stack
 
