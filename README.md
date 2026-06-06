@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Artem Kaliganov</h2>
+  <h1>Artem Kaliganov</h1>
   <p><strong>Senior Frontend Developer</strong></p>
   <p>AI SaaS · Real-time Systems · React Native · Open Source</p>
   <p>
@@ -11,8 +11,6 @@
   </p>
 </div>
 
----
-
 <div align="center">
   4.5+ years building products in AI SaaS, ERP, and Telegram Mini Apps
   <br />
@@ -21,7 +19,7 @@
   Cross-platform with React Native and Next.js
 </div>
 
----
+<br />
 
 Senior Frontend Developer with 4.5+ years building products in AI SaaS, ERP, and Telegram Mini Apps.
 
